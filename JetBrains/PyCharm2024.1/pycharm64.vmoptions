@@ -1,0 +1,4 @@
+-Xmx1480m
+-Dide.managed.by.toolbox=/home/hacker/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox
+-Dtoolbox.notification.token=a7a85fcf-591e-4621-a773-e310eb3bc07f
+-Dtoolbox.notification.portFile=/home/hacker/.cache/JetBrains/Toolbox/ports/608910827.port
